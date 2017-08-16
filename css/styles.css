@@ -1,0 +1,11 @@
+
+.landing {
+  text-align: center;
+  background-image : url("/home/buntu/IP2-master/assets/backgrounds/landing.jpg");
+  background-size: cover;
+  padding :175px;
+}
+.line1{
+  color: white;
+  font-size: 32px;
+}
