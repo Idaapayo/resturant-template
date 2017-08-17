@@ -16,7 +16,7 @@
   padding: 20px;
 }
 .orange {
-  background-color: orange;
+  background-color: #F15A29;
   padding: 20px;
 }
 .bback {
@@ -40,4 +40,21 @@
   background-size: cover;
   color:white;
   padding: 80px;
+}
+.text1{
+  text-align: center;
+  margin: 30px black;
+  border: 30px ;
+  padding: 30px;
+
+}
+.picture1{
+  text-align: left;
+  font-size: 15px;
+}
+.gallery{
+color: #F15A29;
+padding: 2px;
+border: 5px #F15A29;
+margin: 10px #F15A29;
 }
