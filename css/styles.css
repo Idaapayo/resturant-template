@@ -1,4 +1,6 @@
+.mytable {
 
+}
 .landing {
   text-align: center;
   background-image : url("/home/buntu/IP2-master/assets/backgrounds/landing.jpg");
@@ -8,4 +10,34 @@
 .line1{
   color: white;
   font-size: 32px;
+}
+.white {
+  background-color: white;
+  padding: 20px;
+}
+.orange {
+  background-color: orange;
+  padding: 20px;
+}
+.bback {
+  background-image: url("/home/buntu/IP2-master/assets/foodtop/breakfast.jpg");
+  background-size: cover;
+  color: white;
+  padding: 80px
+
+
+
+}
+.lback {
+  background-image: url("/home/buntu/IP2-master/assets/foodtop/lunch.jpg");
+  background-size: cover;
+  color: white;
+  padding: 80px;
+
+}
+.dback {
+  background-image: url("/home/buntu/IP2-master/assets/foodtop/dinner.jpg");
+  background-size: cover;
+  color:white;
+  padding: 80px;
 }
