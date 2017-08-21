@@ -3,7 +3,7 @@
 }
 .landing {
   text-align: center;
-  background-image : url("/home/buntu/IP2-master/assets/backgrounds/landing.jpg");
+  background-image : url("../assets/backgrounds/landing.jpg");
   background-size: cover;
   padding :175px;
 }
@@ -20,7 +20,7 @@
   padding: 20px;
 }
 .bback {
-  background-image: url("/home/buntu/IP2-master/assets/foodtop/breakfast.jpg");
+  background-image: url("../assets/foodtop/breakfast.jpg");
   background-size: cover;
   color: white;
   padding: 80px
@@ -29,14 +29,14 @@
 
 }
 .lback {
-  background-image: url("/home/buntu/IP2-master/assets/foodtop/lunch.jpg");
+  background-image: url("../assets/foodtop/lunch.jpg");
   background-size: cover;
   color: white;
   padding: 80px;
 
 }
 .dback {
-  background-image: url("/home/buntu/IP2-master/assets/foodtop/dinner.jpg");
+  background-image: url("../assets/foodtop/dinner.jpg");
   background-size: cover;
   color:white;
   padding: 80px;
